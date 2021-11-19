@@ -62,6 +62,7 @@
     <Compile Include="Assets\RCK 2.3\Scripts\CarSwitch.cs" />
     <Compile Include="Assets\Scripts\CarController.cs" />
     <Compile Include="Assets\RCK 2.3\Scripts\VehicleCamera.cs" />
+    <Compile Include="Assets\SteeringWheel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\RCK 2.3\Shaders\ReflectionBlurFresnel.shader" />
